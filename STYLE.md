@@ -16,6 +16,13 @@ Read this before every drafting session.
 - **Vary sentence rhythm deliberately.** Short sentences for impact and
   action. Longer ones for reflection and atmosphere. If three consecutive
   sentences share a shape, break one.
+- **Settle in.** (Author-mandated, ch 2 review.) The default paragraph is
+  roomy: scenes take time to establish themselves, transitions get walked
+  rather than jump-cut, and narration is allowed to dwell — on the room, the
+  work, the shape of an hour — without hurrying to the next beat. Short
+  paragraphs and clipped lines are a spice for genuine turns; a page built
+  of them, especially combined with laconic dialogue, reads staccato and
+  abbreviated. Pithy must be earned by surrounding calm.
 - **Strong verbs, few adverbs.** "She slammed the door" not "she closed the
   door forcefully."
 - **Sensory grounding.** Every scene establishes place through at least two
@@ -114,7 +121,10 @@ the fixes before any bookkeeping.
   other book, cut or replace it. Metaphors are rationed: one working image
   beats three decorative ones.
 - Rhythm: read paragraphs aloud in the mind's ear; break runs of same-shape
-  sentences; check paragraph-length variety across the chapter.
+  sentences; check paragraph-length variety across the chapter — and check
+  it specifically against staccato: scan each page for runs of short
+  paragraphs outside dialogue turns, and where they dominate, merge or
+  expand until the texture settles ("Settle in," above).
 - Continuity spot-check against bible/notes for every fact asserted.
 
 **Lens 2 — AI smell.** Constructions that mark machine prose. Hunt and kill:

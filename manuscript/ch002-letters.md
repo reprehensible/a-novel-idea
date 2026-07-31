@@ -2,9 +2,11 @@
 
 The first rule of Wystan's school was that nobody pressed hungry, and so the front room of his cottage smelled of bread and dripping every school morning from harvest-home to lambing. The second rule was that anything a hand or a flint could do in half the time, a hand or a flint did. There were other rules, but those two hung over the door, chalked fresh each autumn on the lintel beam in Wystan's angular guild hand, and every pupil learned to read them before they learned anything else.
 
-Four days after the Inning, the room held seven children on two benches, a fire being mean with itself in the grate, and Joss. Bringing the term's first load of split ash and the old man's mash pot was the Fenns' school-fee and a man's errand, finished when the wood was stacked; other men stacked theirs and went back to their fields. Joss stayed. He had stayed last autumn too, and the autumn before, long past any errand's excuse, until the school had given up finding a grown farmer on a stool among its children worth a look. The stool stood by the wood-basket and was called Joss's stool, and he sat on it with his back against the warm chimney-breast and a slate on his knee like any other pupil, three times the size of most of them and slower than some, which the little ones enjoyed more than they let show.
+Four days after the Inning, the room held seven children on two benches, a mean little fire in the grate, and Joss. Bringing the term's first load of split ash and the old man's mash pot was the Fenns' school-fee and a man's errand, finished when the wood was stacked; other men stacked theirs and went back to their fields. Joss stayed. He had stayed last autumn too, and the autumn before, long past any errand's excuse, until the school had given up finding a grown farmer on a stool among its children worth a look. The stool stood by the wood-basket and was called Joss's stool, and he sat on it with his back against the warm chimney-breast and a slate on his knee like any other pupil, three times the size of most of them and slower than some, which the little ones enjoyed more than they let show.
 
-The room was loud with the fodder-yards before Wystan came through from the back.
+The room went about its first-day rituals around him, comfortable as an old coat. The benches had come out of the loft with the summer's dust wiped off them, and the same initials were carved in the undersides that had been there when Joss was a pupil proper — his own among them, and Davin's, done with more dash and less finishing. Bread and dripping went around on the big board, and the little ones ate like fieldhands and eyed the chalk box; the wet-wool smell of seven children who had crossed the fields in the morning mist worked itself into the warmth; and on the hob the mash pot Joss had carried down began, gently, to steam. Wystan was in the back room a long while, hunting something that had spent the summer being put somewhere safe.
+
+The room, left to itself, was loud with the fodder-yards. The news had been coming up the lane all week with the carts, growing as it came, and by now everyone in the parish owned a piece of it and no two pieces matched.
 
 "Burned flat," Gret Dunmow was saying. She was nine, the miller's youngest, quick as a sparrow after spilt grain. "All the levy hay for the remounts, a whole winter's stacks. Tam Carter's father carted some of that hay. He says all it wants is one man smoking in the wrong place. But the toll-keeper says nobody was in the yards, and the reeve's man says—" she dropped her voice to make it carry better "—Ascendancy coin. Paid men. Come up the war road in the dark and gone the same way."
 
@@ -28,11 +30,9 @@ They chalked up. The three on the near bench — Gret, the tanner's boy, and a s
 
 The three children bent over their slates and began the shape-words, the little chant that went with the Ember, no louder than bees. Joss said it with them, under his breath. It was not words exactly — it was sounds that had been words, maybe, when the letter was made, worn round like river stones — and as they went through him he felt the old strange thing happen, the thing he had no better name for than *borrowing*: his own mind folding along someone else's creases. Fire is small before it is anything, said the creases. Fire is a hunger before it is a light. Feed it heat from your own store, the way you'd feed a lamb from your own bowl —
 
-Gret's shaving curled, blackened, and took: a bead of flame no bigger than a barley-corn stood up off her slate, and she sat back with her breath showing faintly in the warm room.
+Gret's shaving curled, blackened, and took: a bead of flame no bigger than a barley-corn stood up off her slate, and she sat back with her breath showing faintly in the warm room. There was no wonder in the room about it, or none anyone would have confessed to — fire came when you pressed for it, everyone's aunt could do as much — and still every head on both benches had turned to watch, the way heads turn in every parish there is, Joss supposed, when the small miracle consents to happen again. The Chessom boy's took a moment later, solemn as its maker. The tanner's boy pressed too hard at the wanting, singed a hole through his shaving into nothing, and had to be given another and made to shake his fingers out and eat a heel of bread before he tried again, which he bore with the air of a man martyred to learning.
 
-The Chessom boy's took a moment later. The tanner's boy pressed too hard at the wanting, singed a hole through his shaving into nothing, and had to be given another and made to shake his fingers out and eat a heel of bread before he tried again.
-
-Joss's caught on the third pass. A thread of smoke, then the barley-corn of flame, and with it the chill walking up through his finger-bones and out along his arms, and his next breath fogged. Three children half his weight had pressed the same letter for less. He sat looking at his little flame while it ate the shaving and went out, and turned the slate-pencil over in his fingers.
+Joss's caught on the third pass. A thread of smoke, then the barley-corn of flame, and with it the chill walking up through his finger-bones and out along his arms, and his next breath fogged. Three children half his weight had pressed the same letter for less. He sat looking at his little flame while it ate the shaving and went out, and turned the slate-pencil over in his fingers. It was not that the cost surprised him. It was among the oldest facts he had about himself, learned at eleven and confirmed every season since, the way a man knows which of his boots lets in water. It was that he had never once managed to leave it alone. The why of it sat where a stone sits in a field you otherwise love: every year he plowed around it, and every year it was there.
 
 "Ask it," Wystan said. He was watching from the table.
 
@@ -62,6 +62,8 @@ She said it without any heat at all, which was the worst of it, and went back to
 
 *  *  *
 
+They went down to the mill in the middle of the afternoon, the two of them, by the field path and then the low road, through a day that had decided to be the year's last warm one. The hedges were heavy with sloes. Somebody's plow was already out on the far side of the valley, turning the first stubble under, and the sound of it came across the water meadows small and clear, iron and stone, stopping and starting. Davin carried the heavier basket and talked about nothing — the plowing, a dog they'd had once, whether the Alderys' cider would be fit to drink by the leaving day or only fit for Alderys — and Joss carried the lighter one and let him run on, because the talk was doing a job for his brother, the way the swing of cutting did a job, and you didn't take a man's work from him just because you could see what it was for.
+
 The mill sat where it had always sat, astride the leat on the low road, but it had grown a new door-yard population. Washing that was not Dunmow washing hung on the line; a strange dog lay against the strange wagon that stood wheel-less on blocks by the race; and the reeve's billet-chit was nailed to the doorpost, a small square of paper with the moot's stamp, curling already at one corner. Everything arrived on paper now, Joss thought. Writs for men, marks for horses, chits for the homeless. The war wrote and the wold did as it was written.
 
 Lise had sent two baskets — a cheese, eggs packed in bran, the last of the plum preserves, a ham hock — because that was what you did for billeted folk, and she had sent both her sons to carry what one could have carried, because it was forty-seven days and she was finding Davin work that kept him where she could hear him whistling.
@@ -72,7 +74,7 @@ The man of the family was in the door-yard with the wagon. He had the near fore-
 
 Inside, the mill kitchen was two households pretending to be one, and managing it the way you manage a dance nobody taught you: Dunmow's wife pouring; a woman with grey-shot dark hair — Maren Cardew — half-rising to help and being sat down again; a girl of twelve or so, Tilde, standing at the churn as if she had claimed it for a country. And by the window, on the bench that looked down the race, a boy of about seven, who was introduced by his mother, quickly, in passing, the way you'd step over uneven ground — "and that's our Otty" — and who did not look around.
 
-They stayed the hour that manners wanted. The talk was careful the way new-billet talk was careful all over the shire that autumn, Joss supposed: the harvest, the mill, the roads. Chiefly the roads, because roads were a thing Harl Cardew would talk about, and the war stood behind everything he said about them like a figure in a doorway.
+They stayed the hour that manners wanted, and it was a strange, kind, uphill hour. The kitchen did the work such kitchens do. The kettle went around, and the new bread was praised; the mill's cat came in, considered the strange dog through the doorway, and sat down with its back to it, which got the first laugh of the visit and eased more than it had any right to. The talk was careful the way new-billet talk was careful all over the shire that autumn, Joss supposed: the harvest, the mill, the pear trees at Fennstead, the right way of keeping eggs through winter — Maren Cardew had a method with lime-water, and Lise's bran was loyally defended in her absence, and for a little while the kitchen built that small safe country and lived in it. And under all of it, patient as water working at a bank, the roads. The talk kept coming back to the roads, because roads were a thing Harl Cardew would talk about, and the war stood behind everything he said about them like a figure in a doorway.
 
 "You know what's passed by what's broke," he said, turning his cup. "That's the trade. Wheel comes in cracked at the felloe, that's overloading — grain wagon, requisition work. Comes in with the iron tyre thrown, that's speed on bad cobbles: courier, or somebody who'd seen something. Last spring the work went strange on us. Gun-carriages, you'd say, only there's no guns. Long low frames, iron-shod, ruts a hand deep. Choir-carts. They weigh what a loaded hay-wain weighs, empty." He seemed to hear himself, and stopped, and drank.
 
@@ -82,7 +84,7 @@ They stayed the hour that manners wanted. The talk was careful the way new-bille
 
 "Tilde," her mother said, and the churn went back to work.
 
-Nobody looked at Otty, which was how Joss knew for certain that the not-talking had come down the war road with them, folded in with the tools and the wheels.
+Nobody looked at Otty through any of it, which was how Joss knew for certain that the not-talking had come down the war road with them, folded in with the tools and the wheels. The boy sat on with the race running by under the window, and the light off the water moved on his face, and whatever he was watching wasn't in the room.
 
 It was Davin who asked it. He had been quiet in the corner with his cup — quiet in company was new on him, four days old, and it fit him like his father's boots — and he asked it without any of his noise, in a voice Joss had heard once before, on a roof, in the dark.
 
@@ -100,9 +102,9 @@ Otty watched the cup. It was the first thing Joss had seen him watch.
 
 Otty didn't speak. But his thumb moved on the rim of the cup, testing the weight of it, and he was still turning it over by the window when the Fenn brothers went out through the door-yard and up the low road home.
 
-They were past the leat-bridge before either said anything.
+They took the low road back with the empty baskets, into the last of the warm light. The plow across the valley had finished its work or given it up; the hedges were going long-shadowed and yellow; and Joss thought of three or four things to say and let each of them go, because they were all of them really only one thing, and it wasn't his to say first. They were past the leat-bridge before Davin said it for both of them.
 
-"Forty-seven days," Davin said, eyes on the road, and that was all, the whole way up.
+"Forty-seven days," he said, eyes on the road, and that was all, the whole way up.
 
 *  *  *
 

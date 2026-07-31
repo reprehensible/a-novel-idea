@@ -35,6 +35,10 @@ STYLE.md. Check before/after each chapter.)
   speech; and never stack a new invented concept, stylized syntax, and a
   striking image in the same sentence — when introducing an unfamiliar
   world-concept, the prose around it goes plain. (2026-07-31)
+- **Staccato default** (author, PR #2 overall review): leaning on short
+  paragraphs plus laconic phrasing gives a hurrying, abbreviated vibe.
+  "We don't always need to be pithy and punchy." Now a STYLE.md fundamental
+  ("Settle in") and an explicit edit-pass rhythm check. (2026-07-31)
 
 ## Decisions
 
@@ -49,6 +53,12 @@ STYLE.md. Check before/after each chapter.)
 - Four standing rules extracted to the ban-list above (hedged obviousness,
   unearned "nobody remarked," dialect thickness, imagery crowding). These are
   now edit-pass checks for every chapter.
+- The review's overall note (staccato/hurrying texture; "settle in") arrived
+  after the line-fix round: addressed with a second revision pass adding
+  settled connective tissue — schoolroom first-day ritual paragraph, dwelt
+  interiority after Joss's pressing, walked transitions to and from the mill,
+  a fuller manners-hour in the kitchen — and codified as the STYLE.md
+  "Settle in" fundamental (fifth standing rule from this review).
 
 ### 2026-07-31 — Ch 002 drafting decisions
 - **The Inning-night fire resolved as mundane-ambiguous:** the toll's
