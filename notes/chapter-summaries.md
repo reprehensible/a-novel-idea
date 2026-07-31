@@ -40,3 +40,30 @@ requisition; war has visibly reached the district's edge.
 **Plants/payoffs:** P018 planted (lamp-story myth); P019 planted (Davin/the
 ordinary war); P020 planted (Petra's exactness); gelding-marking sets up the
 ch 3 horse-taking; spring memory of a twelve-kenner choir seeds rule-6 texture.
+
+### Ch 002 — Letters  [POV: Joss]  [words: ~3,846]  [in-world date: Inning + 4 days]
+Wystan's village school, first morning of the harvest-home term. The Ken's rote
+tier on page via the Ember (kindling-letter, "Ambrun's Ember," a dead master's
+one thought copied identically for nine centuries): marks/chant as mnemonic
+scaffolding only, warmth-cost shown small (fogged breath, chilled fingers),
+Joss middling — his pressing costs extra because "you argue with it" — but
+asking the under-questions. News: the ch 1 fire was the toll's fodder-yards
+(levy hay); cause unresolved, rumors conflict (carelessness / Ascendancy coin /
+Widow Aldery blames the Discord). Petra, invited, presses her first Ember on
+her third try (most take a season); guild school at Ferrand remains out of
+reach — "the crown's fifth took what would have paid it." The Cardews of
+Brede (Harl, wheelwright; Maren; Tilde 12; Otty ~7, mute since the Seam),
+billeted at the mill: first war-stories — choirs felt in the teeth, choir-carts,
+a frosted crater birds won't cross, nine days from first hearing to flight.
+Davin, quiet and new at it, asks "how long did you have"; gives Otty his Inning
+cup to mind till he's back; says "forty-seven days" aloud on the road. At dusk,
+at the mere-side bound stone, Joss finally asks the choir question — "Where
+does Ambrun end?" — and Wystan: "You listen wrong for a farmer," almost says
+more, doesn't. "Hold the light."
+**State changes:** Petra has pressed her first letter; Cardew family billeted
+at the mill; Davin's cup with Otty; ch 1 fire identified (burned fodder-yards,
+cause unknown); Wystan walking the bounds early; 47 days to report-day.
+**Plants/payoffs:** P002 planted ("you listen wrong for a farmer"); P020
+reinforced (Petra's first pressing, on page); P027 reinforced (choir question
+asked; half-answer given); P018 reinforced (Discord-blame rumor reflex); P028
+planted (Davin's Inning cup left with Otty Cardew).

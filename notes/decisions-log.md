@@ -23,6 +23,36 @@ STYLE.md. Check before/after each chapter.)
 
 ## Decisions
 
+### 2026-07-31 — Ch 002 drafting decisions
+- **The Inning-night fire resolved as mundane-ambiguous:** the toll's
+  fodder-yards (stockpiled levy hay) burned; cause never established on page
+  or in canon, and NOT connected to Adlen Marsh or the Dawn. It is the war's
+  ordinary chaos arriving; the plot's true arrival (ch 4) looks like nothing
+  by comparison. The rumor-triple (carelessness / Ascendancy coin / the
+  Discord) is deliberate P018 texture: myth-reflex on page. Do not resolve it
+  later; do not let future chapters imply Marsh caused it.
+- **Letters are named for their dead masters** ("Ambrun's Ember") — extends
+  setting §2 rule 4 (no contradiction; the naming makes rule 4 tangible).
+  The Ember's glyph: seven angled strokes, fifth turned against the rest.
+  Joss holds three letters, learned at eleven (Ember + two deliberately
+  unnamed — name only if a chapter needs them).
+- **Petra presses her first Ember on page** (third try; norm is a season of
+  spoiled shavings). Escalates P020 from implication to demonstrated gift,
+  per Panel 1's "Petra's plants stay scenes." Kept modest: cost shown, no
+  prodigy fireworks, and the guild-school arithmetic (4 shillings/term +
+  bread, terms at harvest-end and lambing) closes the door on page.
+- **Davin's surprising beat delivered** (Panel 1 item): quiet in company,
+  the "how long did you have" question, and his Inning cup left with mute
+  Otty Cardew "till I'm back" → new promise **P028**. The cup is a real
+  Chekhov: touch it again at ch 74/76 or mark it intentionally unresolved
+  at the Part V audit.
+- **Style ruling — deliberate repetition:** "barley-corn of flame" recurs
+  three times in the school scene by design: every pressed Ember is the
+  same flame (rule 4 enacted in prose). Logged so the edit-pass uniformity
+  check doesn't "fix" it later; the device is single-use (this chapter).
+- **Retrospective narrator NOT used** in ch 2 (budget: ~once per part;
+  Part I's instance spent in ch 1).
+
 ### 2026-07-31 — Test-reader panel established; Panel 1 outcomes
 - Author-directed experiment: three fresh-context test-reader subagents
   (Enthusiast / Literary Reader / AI Skeptic) read manuscript prose only —

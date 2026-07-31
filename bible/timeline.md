@@ -41,6 +41,7 @@
 | Chapter | In-world date(s) | Elapsed | Where | Notes |
 |---------|------------------|---------|-------|-------|
 | 001 | Late summer CY 611 (A.S. 2974): last cutting day, Inning that evening, fire seen in the small hours after | Day 0 | Harrowmere / Fennstead | Levy report-day fixed: Inning + 51 days, at Ferrand. Fire on the war road past the Ferrand toll, cause unknown. |
+| 002 | Inning + 4 days | Day 4 | Harrowmere (Wystan's school, the mill, mere-side bound stone) | Fire identified: toll fodder-yards (levy hay); cause never established. Cardews billeted at the mill (fled Brede ~3 weeks prior; passed the toll 2 days post-fire). 47 days to report-day. |
 
 ### Planned seasonal arc (for outline consistency)
 
