@@ -5,49 +5,37 @@
 
 ## Current phase
 
-**Phase 1 — Development: package complete. AWAITING AUTHOR SIGN-OFF before
-Phase 2 (drafting) begins.**
+**Phase 2 — Drafting.** Author signed off on the development package
+(2026-07-31) and mandated a per-chapter edit pass (STYLE.md, "The edit
+pass"; CLAUDE.md protocol step 0).
 
 ## Next action
 
-Author reviews the development package and signs off or redirects:
-
-- `bible/setting.md` — world, the Ken (hard rules), nations, three-layer
-  history with spoiler architecture and secrecy map.
-- `bible/characters/` — 7 major files + supporting cast.
-- `bible/plot/outline.md` — 5 parts, 76 chapters + 4 interludes, per-chapter
-  beats, ~292k words budgeted.
-- `bible/plot/promises.md` — 25 pre-registered setup/payoff promises.
-- `bible/timeline.md` — historical canon + travel times + seasonal arc.
-- `bible/glossary.md` — all invented terms to date.
-
-**Decisions specifically flagged for author sign-off** (see decisions-log
-2026-07-31 entry): Serel dies in ch 69; the Lector survives as the Archon's
-instrument; "the Discord" as the rebellion's name; mind-conformity
-(the Tuning) as the golden age's core tyranny; the heroes' denial choice
-causes the unsealing; low-key Joss/Renna romance; title *The Warden's Latch*.
-
-After sign-off: draft ch 1 per the session protocol in CLAUDE.md.
+Draft **ch 002 — "Letters"** per the session protocol: read STATUS, STYLE
+(incl. edit pass), outline beats ch 1–5, chapter-summaries in full,
+continuity for Joss/Wystan/family, Joss + Wystan files, and the full prose
+of ch 001.
 
 ## Manuscript state
 
 | Metric | Value |
 |---|---|
-| Chapters drafted | 0 of 76 (+4 interludes) |
-| Total word count | 0 |
+| Chapters drafted | 1 of 76 (+0 of 4 interludes) |
+| Total word count | ~3,483 |
 | Target | 250,000–300,000 (budgeted ~292,000) |
-| Current position in outline | Ch 1 — "Harvest" (pending sign-off) |
+| Current position in outline | Ch 002 — "Letters" is next |
 
 ## Open questions for the author
 
-- Sign-off or redirects on the flagged decisions above.
-- Any naming vetoes (esp. "the Discord," "the Ken," character names) — far
-  cheaper to change now than after drafting begins.
+- None blocking. Standing invitation: naming vetoes ("the Discord," "the
+  Ken," character names) remain cheap until Part II.
 
 ## Session log
 
 - **2026-07-31** — Phase 0: repository scaffold, charter, style guide.
 - **2026-07-31** — Phase 1: full development package from author's premise —
   setting + magic system, 7 character files + supporting cast, complete
-  76-chapter outline, 25-promise ledger, timeline, glossary. Awaiting
-  sign-off.
+  76-chapter outline, 25-promise ledger, timeline, glossary.
+- **2026-07-31** — Author sign-off; edit-pass mandate recorded. Phase 2
+  begins: ch 001 "Harvest" drafted (~3,483 words), edit pass done (4 fixes),
+  full bookkeeping committed. Promises P018–P020, P026–P027 now OPEN.
