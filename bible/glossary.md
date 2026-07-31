@@ -15,12 +15,16 @@
 - **Charter Year (CY)** — Harthen reckoning; CY 1 = A.S. 2363.
 - **choir** — many kenners pressing the same letter in drilled unison; modern war-magic.
 - **consonance / consonant** — minds shaped to a shared pattern, able to share depth (Accord secret; author-eyes until reveal).
+- **the crown's fifth** — Harthen wartime grain requisition share (one part in five; heavier than the prior year's seventh). First: ch 1.
+- **assessment mark** — purveyor's chalk cross-in-circle on livestock written down for possible requisition. First: ch 1.
 - **the Diapason** — the Accord's master instrument of the Tuning; a held choir of preserved minds; also maintains Ancarel's seals. Folk name: **the Last Bell**.
 - **the Discord** — myth: the singular devil that broke the Bright Age. Truth: the rebellion of the discordant, plural.
 - **discordant** — Accord term of unpersoning for nonconforming minds; the rebels took it as a badge.
 - **First Graving** — the Vireth academies' hushed, licensed graving rite for proven masters.
 - **graving / graven** — pressing a kenning permanently into oneself; the resulting state ("thrice-graven").
 - **hedge-kenner** — informal village practitioner of a few letters.
+- **the Inning** — Harthen harvest-home feast in the moot-barn, first clear evening after the last field comes in. First: ch 1.
+- **keeping-letters** — folk name for preserving letters (granary, larder); renewed seasonally when they "go quiet." First: ch 1.
 - **the Ken** — the discipline of magic; understanding, enacted.
 - **kenner** — a practitioner of the Ken.
 - **kenning** — a held, integrated understanding of one narrow aspect of the world, pressable upon it.
@@ -45,15 +49,24 @@
 - **the Tuning** — the Accord's shaping of minds to consonance (author-eyes until reveal).
 - **unraveling** — death by false or contradictory graving.
 - **warmth** — the bodily reserve spent by pressing; cannot be pressed into oneself.
+- **the war road** — Harrowmere's name (older than anyone's memory of why) for the old east road over the Ferrand toll. First: ch 1.
 - **the Warden's Latch** — the trustees' key for treating with Ancarel's warden; the story's MacGuffin.
+- **"We are quiet."** — Stillfaith grace and its response (in place of amen). First: ch 1.
 
 ## People
 
 - **Adlen Marsh** — the Dawn surveyor who fled with the Latch; dies Part I.
+- **Aldery, Widow** — Harrowmere's oldest (91); says the Inning grace. First: ch 1.
+- **Aldery, Josten** — Harrowmere smith. First: ch 1.
+- **Aldery, Col** — smith's son, ~20; conscripted ch 1 with Davin.
 - **Bram Fenn** — Joss's father, Fennstead farmer.
 - **Caul** — fourfold-graven hermit of the tarn (Part III). "Caul of the Tarn."
 - **Cael sen Immra** — Vireth archivist-initiate of the Second Dawn; POV; defects.
+- **Chessom, Reeve** — Harrowmere's reeve. His nephew **Marley Chessom** clerks at Ferrand; delivered the levy writs. First: ch 1.
+- **Cropp, Serjeant** — crown purveyor working the district; bad leg; leather tally-book with the moot's stamp. First: ch 1.
 - **Davin Fenn** — Joss's elder brother, conscripted ch 1.
+- **Dunmow, Aldous** — Harrowmere miller; sings the ewe-in-the-well song. First: ch 1.
+- **Dunmow, Edmund "Edd"** — miller's eldest; conscripted ch 1 ("there's the fourth verse found").
 - **Ilvane** — the Warden of Ancarel; broker of the Truce; sealed volunteer.
 - **Josselin "Joss" Fenn** — protagonist; wold farmboy of Harrowmere.
 - **Lise Fenn** — Joss's mother.
@@ -68,7 +81,9 @@
 ## Places
 
 - **Ancarel** — the shut vault-city under the Sheer; the Sealing's site. Folk name: **the Shut City**.
-- **Fennstead** — the Fenn farm by Harrowmere.
+- **Fennstead** — the Fenn farm by Harrowmere; water meadows by the mere, fields up the wold's shoulder.
+- **Ferrand** — Harrowmere's shire town (moot, levy muster); also the toll on the war road at the wold's shoulder, its light visible from Fennstead. First: ch 1.
+- **Marle** — levy training depot south of Ferrand. First: ch 1.
 - **Harrowmere** — Joss's home village in the Harthen wolds.
 - **Harthen** — Joss's homeland; river-and-wold kingdom under the Low Charter.
 - **Lastlight** — prospector outpost on the Scald's rim.

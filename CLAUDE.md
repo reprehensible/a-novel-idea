@@ -69,6 +69,10 @@ the original plan.
 6. Read the **full prose** of the previous 1–2 chapters, for voice and flow.
 
 **After writing a chapter — never skip, never batch more than one chapter:**
+0. **Edit pass** (author-mandated): re-read the full draft with the two
+   lenses in STYLE.md ("The edit pass") — writing quality (metaphor audit,
+   rhythm, POV) and AI smell (stock phrasing, tic constructions,
+   over-signaling, uniformity). Fix everything found *before* bookkeeping.
 1. Add its summary to `notes/chapter-summaries.md`.
 2. Update `notes/continuity.md` for every character whose state changed.
 3. Update `bible/plot/promises.md`: new setups planted, payoffs delivered.

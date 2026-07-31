@@ -11,9 +11,49 @@
 (Crutch words/phrases noticed during drafting — supplements the list in
 STYLE.md. Check before/after each chapter.)
 
-- *(none yet)*
+- **Aphorism cadence** (Panel 1): closing-button aphorisms landing at
+  paragraph-end at regular rhythm. Not banned — rationed. Edit-pass check:
+  count them; vary their position; leave some paragraphs plain. (2026-07-31)
+- **Whimsy-anthropomorphism under emotional load** (Panel 1): charming
+  animal/object interiority adjacent to grief beats — one per chapter max,
+  and never at the beat itself. (2026-07-31)
+- **Explaining the image**: never follow a simile with its prose
+  translation; never respell a chapter's governing figure in the closing
+  paragraph. (2026-07-31)
 
 ## Decisions
+
+### 2026-07-31 — Test-reader panel established; Panel 1 outcomes
+- Author-directed experiment: three fresh-context test-reader subagents
+  (Enthusiast / Literary Reader / AI Skeptic) read manuscript prose only —
+  never bible/outline — and report in character. Protocol + verbatim-ish
+  reports archived in `notes/reader-feedback.md`. Feedback is feedback,
+  not change requests (author's rule); no retroactive edits made to ch 1.
+- Panel 1 (ch 001): all three would keep reading; AI Skeptic authored-
+  confidence 85–90%. Watch-list adopted (see ban-list additions above +
+  synthesis in reader-feedback.md): aphorism rationing, whimsy under load,
+  trust-the-image-once, a surprising beat for Davin before he exits,
+  Petra's plants staying scenes.
+- **Decision — retrospective narrator:** the ch 1 flicker ("That was the
+  thing Joss fixed on, after") is adopted as a deliberate device: a faint
+  later-vantage narrator, used at most ~once per part, never resolving
+  into a frame story in book 1. Fits the book's concern with how events
+  become history. (Literary Reader: "you only get to have him on purpose."
+  We now have him on purpose.)
+- Phase 3 revision candidates from Panel 1 (logged, not actioned):
+  ch 1 final paragraph over-explains (trim between "Aye" and the last two
+  sentences); "like a held breath" choir simile — replace, or delay until
+  choir/music vocabulary is established in-world.
+
+### 2026-07-31 — Author sign-off; edit-pass mandate
+- Author reviewed the development package and directed drafting to begin —
+  treated as sign-off on all flagged Phase 1 decisions (none vetoed).
+- **New standing guidance from the author:** after drafting each chapter,
+  a mandatory edit pass for (1) writing quality — metaphors consistent and
+  meaningful, no stock phrasing — and (2) "AI smell" — typically-AI
+  constructions; sustain varied scene types and tones without repetition
+  or loss of coherence. Implemented as STYLE.md "The edit pass" section +
+  step 0 of the post-chapter protocol in CLAUDE.md.
 
 ### 2026-07-31 — Phase 1 development decisions (flagged for author sign-off)
 
