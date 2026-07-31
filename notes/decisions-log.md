@@ -20,8 +20,75 @@ STYLE.md. Check before/after each chapter.)
 - **Explaining the image**: never follow a simile with its prose
   translation; never respell a chapter's governing figure in the closing
   paragraph. (2026-07-31)
+- **Hedged obviousness** (author, PR #2): no "suspected/seemed/somehow"
+  framing on an inference the reader has already made — state it or cut it.
+  (2026-07-31)
+- **Unearned "nobody remarked"** (author, PR #2): if narration notes that a
+  thing goes unremarked or is unusual, the text must first make legible
+  *what* would be remarked and why. Signpost the oddity or drop the gesture.
+  (2026-07-31)
+- **Dialect thickness** (author, PR #2): voice by rhythm and word choice,
+  not eye-dialect, elisions, or inverted constructions ("da," "give it me").
+  Ration regional markers hard, especially early in the book — thick dialect
+  distances. (2026-07-31)
+- **Imagery crowding** (author, PR #2): one metaphor family per paragraph or
+  speech; and never stack a new invented concept, stylized syntax, and a
+  striking image in the same sentence — when introducing an unfamiliar
+  world-concept, the prose around it goes plain. (2026-07-31)
+- **Staccato default** (author, PR #2 overall review): leaning on short
+  paragraphs plus laconic phrasing gives a hurrying, abbreviated vibe.
+  "We don't always need to be pithy and punchy." Now a STYLE.md fundamental
+  ("Settle in") and an explicit edit-pass rhythm check. (2026-07-31)
 
 ## Decisions
+
+### 2026-07-31 — Author feedback round on ch 002 (PR #2)
+- Five line comments from the author on the drafted chapter; all actioned in
+  prose same day (unlike test-reader feedback, author comments are change
+  requests per the charter). Fixes: cut the "suspected was the point" hedge;
+  rewrote the Joss-stays-at-school paragraph to establish why staying is odd
+  before noting nobody remarks; thinned dialect (Gret's speech, "give it me");
+  clarified the knack-bench/Ember paragraph (plain terms before imagery);
+  decluttered Wystan's pail speech to one metaphor family.
+- Four standing rules extracted to the ban-list above (hedged obviousness,
+  unearned "nobody remarked," dialect thickness, imagery crowding). These are
+  now edit-pass checks for every chapter.
+- The review's overall note (staccato/hurrying texture; "settle in") arrived
+  after the line-fix round: addressed with a second revision pass adding
+  settled connective tissue — schoolroom first-day ritual paragraph, dwelt
+  interiority after Joss's pressing, walked transitions to and from the mill,
+  a fuller manners-hour in the kitchen — and codified as the STYLE.md
+  "Settle in" fundamental (fifth standing rule from this review).
+
+### 2026-07-31 — Ch 002 drafting decisions
+- **The Inning-night fire resolved as mundane-ambiguous:** the toll's
+  fodder-yards (stockpiled levy hay) burned; cause never established on page
+  or in canon, and NOT connected to Adlen Marsh or the Dawn. It is the war's
+  ordinary chaos arriving; the plot's true arrival (ch 4) looks like nothing
+  by comparison. The rumor-triple (carelessness / Ascendancy coin / the
+  Discord) is deliberate P018 texture: myth-reflex on page. Do not resolve it
+  later; do not let future chapters imply Marsh caused it.
+- **Letters are named for their dead masters** ("Ambrun's Ember") — extends
+  setting §2 rule 4 (no contradiction; the naming makes rule 4 tangible).
+  The Ember's glyph: seven angled strokes, fifth turned against the rest.
+  Joss holds three letters, learned at eleven (Ember + two deliberately
+  unnamed — name only if a chapter needs them).
+- **Petra presses her first Ember on page** (third try; norm is a season of
+  spoiled shavings). Escalates P020 from implication to demonstrated gift,
+  per Panel 1's "Petra's plants stay scenes." Kept modest: cost shown, no
+  prodigy fireworks, and the guild-school arithmetic (4 shillings/term +
+  bread, terms at harvest-end and lambing) closes the door on page.
+- **Davin's surprising beat delivered** (Panel 1 item): quiet in company,
+  the "how long did you have" question, and his Inning cup left with mute
+  Otty Cardew "till I'm back" → new promise **P028**. The cup is a real
+  Chekhov: touch it again at ch 74/76 or mark it intentionally unresolved
+  at the Part V audit.
+- **Style ruling — deliberate repetition:** "barley-corn of flame" recurs
+  three times in the school scene by design: every pressed Ember is the
+  same flame (rule 4 enacted in prose). Logged so the edit-pass uniformity
+  check doesn't "fix" it later; the device is single-use (this chapter).
+- **Retrospective narrator NOT used** in ch 2 (budget: ~once per part;
+  Part I's instance spent in ch 1).
 
 ### 2026-07-31 — Test-reader panel established; Panel 1 outcomes
 - Author-directed experiment: three fresh-context test-reader subagents

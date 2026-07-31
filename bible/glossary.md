@@ -17,7 +17,11 @@
 - **consonance / consonant** — minds shaped to a shared pattern, able to share depth (Accord secret; author-eyes until reveal).
 - **the crown's fifth** — Harthen wartime grain requisition share (one part in five; heavier than the prior year's seventh). First: ch 1.
 - **assessment mark** — purveyor's chalk cross-in-circle on livestock written down for possible requisition. First: ch 1.
+- **billet-chit** — reeve's stamped paper assigning refugees to a household. First: ch 2.
+- **bound stones** — parish boundary stones bearing ancient keeping-letters, renewed on the bounds walk; folk say lost sheep and children turn up along them. First: ch 2.
+- **choir-carts** — long, low, iron-shod army wagons that carry a war-choir's gear; ruts a hand deep. First: ch 2 (Harl Cardew's account).
 - **the Diapason** — the Accord's master instrument of the Tuning; a held choir of preserved minds; also maintains Ancarel's seals. Folk name: **the Last Bell**.
+- **the Ember (Ambrun's Ember)** — the common kindling-letter: seven angled chalk strokes, the fifth turned against the rest; a copy of the master Ambrun's one thought about fire, nine centuries old, identical everywhere. First: ch 2.
 - **the Discord** — myth: the singular devil that broke the Bright Age. Truth: the rebellion of the discordant, plural.
 - **discordant** — Accord term of unpersoning for nonconforming minds; the rebels took it as a badge.
 - **First Graving** — the Vireth academies' hushed, licensed graving rite for proven masters.
@@ -56,10 +60,12 @@
 ## People
 
 - **Adlen Marsh** — the Dawn surveyor who fled with the Latch; dies Part I.
+- **Ambrun** — the master, nine centuries dead, whose kindling understanding became the Ember letter. First: ch 2.
 - **Aldery, Widow** — Harrowmere's oldest (91); says the Inning grace. First: ch 1.
 - **Aldery, Josten** — Harrowmere smith. First: ch 1.
 - **Aldery, Col** — smith's son, ~20; conscripted ch 1 with Davin.
 - **Bram Fenn** — Joss's father, Fennstead farmer.
+- **Cardew, Harl** — wheelwright of Brede, refugee billeted at Harrowmere's mill; reads the war in broken wheels. Wife **Maren**; daughter **Tilde** (~12); son **Otty** (~7, mute since the Seam; keeps Davin's Inning cup). First: ch 2.
 - **Caul** — fourfold-graven hermit of the tarn (Part III). "Caul of the Tarn."
 - **Cael sen Immra** — Vireth archivist-initiate of the Second Dawn; POV; defects.
 - **Chessom, Reeve** — Harrowmere's reeve. His nephew **Marley Chessom** clerks at Ferrand; delivered the levy writs. First: ch 1.
@@ -67,6 +73,7 @@
 - **Davin Fenn** — Joss's elder brother, conscripted ch 1.
 - **Dunmow, Aldous** — Harrowmere miller; sings the ewe-in-the-well song. First: ch 1.
 - **Dunmow, Edmund "Edd"** — miller's eldest; conscripted ch 1 ("there's the fourth verse found").
+- **Dunmow, Gret** — miller's youngest, 9; knack-bench pupil at Wystan's school. First: ch 2.
 - **Ilvane** — the Warden of Ancarel; broker of the Truce; sealed volunteer.
 - **Josselin "Joss" Fenn** — protagonist; wold farmboy of Harrowmere.
 - **Lise Fenn** — Joss's mother.
@@ -87,6 +94,7 @@
 - **Harrowmere** — Joss's home village in the Harthen wolds.
 - **Harthen** — Joss's homeland; river-and-wold kingdom under the Low Charter.
 - **Lastlight** — prospector outpost on the Scald's rim.
+- **Brede** — river town on the Seam; the Cardews' home, abandoned to the choirs' advance in the war's second summer. First: ch 2.
 - **the Marches** — contested borderlands between the powers.
 - **Oru-Vael** — steppe/high-moor federacy north of the Marches; its people, the Vael.
 - **the Scald** — the blighted land where the Silence struck hardest.
