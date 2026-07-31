@@ -41,7 +41,7 @@ requisition; war has visibly reached the district's edge.
 ordinary war); P020 planted (Petra's exactness); gelding-marking sets up the
 ch 3 horse-taking; spring memory of a twelve-kenner choir seeds rule-6 texture.
 
-### Ch 002 — Letters  [POV: Joss]  [words: ~3,846]  [in-world date: Inning + 4 days]
+### Ch 002 — Letters  [POV: Joss]  [words: ~3,878]  [in-world date: Inning + 4 days]
 Wystan's village school, first morning of the harvest-home term. The Ken's rote
 tier on page via the Ember (kindling-letter, "Ambrun's Ember," a dead master's
 one thought copied identically for nine centuries): marks/chant as mnemonic

@@ -24,7 +24,7 @@ couriers say."
 | Metric | Value |
 |---|---|
 | Chapters drafted | 2 of 76 (+0 of 4 interludes) |
-| Total word count | ~7,329 |
+| Total word count | ~7,361 |
 | Target | 250,000–300,000 (budgeted ~292,000) |
 | Current position in outline | Ch 003 — "The Levy Scout" is next |
 

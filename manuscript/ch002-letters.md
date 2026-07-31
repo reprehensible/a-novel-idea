@@ -1,12 +1,12 @@
 # Chapter Two — Letters
 
-The first rule of Wystan's school was that nobody pressed hungry, and so the front room of his cottage smelled of bread and dripping every school morning from harvest-home to lambing. The second rule was that anything a hand or a flint could do in half the time, a hand or a flint did. There were other rules, but those two hung over the door, chalked fresh each autumn on the lintel beam in Wystan's angular guild hand, and every pupil learned to read them before they learned anything else, which Joss suspected was the point.
+The first rule of Wystan's school was that nobody pressed hungry, and so the front room of his cottage smelled of bread and dripping every school morning from harvest-home to lambing. The second rule was that anything a hand or a flint could do in half the time, a hand or a flint did. There were other rules, but those two hung over the door, chalked fresh each autumn on the lintel beam in Wystan's angular guild hand, and every pupil learned to read them before they learned anything else.
 
-Four days after the Inning, the room held seven children on two benches, a fire being mean with itself in the grate, and Joss, who had brought the term's first load of split ash and the old man's mash pot and then not left. Nobody remarked on it. He had done the same last autumn, and the autumn before. There was a stool by the wood-basket that the school called Joss's stool, and he sat on it with his back against the warm chimney-breast and a slate on his knee like any other pupil, three times the size of most of them and slower than some, which the little ones enjoyed more than they let show.
+Four days after the Inning, the room held seven children on two benches, a fire being mean with itself in the grate, and Joss. Bringing the term's first load of split ash and the old man's mash pot was the Fenns' school-fee and a man's errand, finished when the wood was stacked; other men stacked theirs and went back to their fields. Joss stayed. He had stayed last autumn too, and the autumn before, long past any errand's excuse, until the school had given up finding a grown farmer on a stool among its children worth a look. The stool stood by the wood-basket and was called Joss's stool, and he sat on it with his back against the warm chimney-breast and a slate on his knee like any other pupil, three times the size of most of them and slower than some, which the little ones enjoyed more than they let show.
 
 The room was loud with the fodder-yards before Wystan came through from the back.
 
-"Burned flat," Gret Dunmow was saying. She was nine, the miller's youngest, quick as a sparrow after spilt grain. "All the levy hay for the remounts, a whole winter's stacks. Tam Carter's da carted some of that hay. He says a man smoking in the wrong place, that's all it wants. But the toll-keeper says nobody was in the yards, and the reeve's man says—" she dropped her voice to make it carry better "—Ascendancy coin. Paid men. Come up the war road in the dark and gone the same way."
+"Burned flat," Gret Dunmow was saying. She was nine, the miller's youngest, quick as a sparrow after spilt grain. "All the levy hay for the remounts, a whole winter's stacks. Tam Carter's father carted some of that hay. He says all it wants is one man smoking in the wrong place. But the toll-keeper says nobody was in the yards, and the reeve's man says—" she dropped her voice to make it carry better "—Ascendancy coin. Paid men. Come up the war road in the dark and gone the same way."
 
 "Widow Aldery says the Discord walks when lamps burn low," said the tanner's boy, with relish.
 
@@ -14,7 +14,7 @@ The room was loud with the fodder-yards before Wystan came through from the back
 
 "Chalk up," said Wystan from the doorway, and the fodder-yards vanished as if pressed out. He set his box of chalks on the table, took the room in over the top of it, and let the quiet sit a moment. "Hay burns. It is nearly the whole of what hay does, if you let it. Chalk up."
 
-They chalked up. The three on the near bench — Gret, the tanner's boy, and a small solemn Chessom whose slate was always cleaner than his face — were the term's knack-children, and they were on the Ember. Joss laid out the same glyphs on his own slate for want of better employment: the little climbing ladder of angled strokes, seven marks, the fifth one turned against the grain of the others like a stile in a fence. He had learned the Ember at eleven. It was one of three letters he owned, if owned was the word, and the only one he could press without Wystan standing by, and there were days it still beat him.
+They chalked up. The three on the near bench — Gret, the tanner's boy, and a small solemn Chessom whose slate was always cleaner than his face — were the term's knack-children, the ones with enough of the Ken in them to be worth the chalk, and this term they were learning the Ember, the common kindling-letter. Joss laid out the same marks on his own slate for want of better employment: seven angled strokes, climbing the slate like a short ladder, the fifth stroke turned against the rest. He had learned the Ember at eleven. It was one of three letters he owned, if owned was the word, and the only one he could press without Wystan standing by, and there were days it still beat him.
 
 "Shavings," Wystan said, going down the bench with a rush basket. "One each. On the slate, not on my floor. Now — marks first, then the words, then the wanting. In that order. The order is the whole of it."
 
@@ -38,7 +38,7 @@ Joss's caught on the third pass. A thread of smoke, then the barley-corn of flam
 
 "Why does it cost me more than Gret?"
 
-"Because Gret does as the letter tells her, and you argue with it." The old man came over and took Joss's slate, tilted it to the light, and gave it back. "Your marks are fair. Your chant's fair. But somewhere in the middle of the pressing you stop carrying the pail and start asking how the pail was made, and the water goes out the sides, and you pay for every drop you spill. A borrowed thought wants borrowing whole. Children do it best. They're used to wearing clothes cut for somebody else."
+"Because Gret does as the letter tells her, and you argue with it." The old man came over and took Joss's slate, tilted it to the light, and gave it back. "Your marks are fair. Your chant's fair. But somewhere in the middle of the pressing you stop carrying the pail and start asking how it was made, and the water goes out the sides. A borrowed thought wants borrowing whole. Children borrow best; they haven't much of their own yet to argue with."
 
 "Whose thought is it?" Joss said. "The Ember. Somebody understood fire once — this much and no more — and it's his creases my mind folds on. Whose?"
 
@@ -126,7 +126,7 @@ The chalk ticked and scraped in the grooves, a small sound the dusk made room fo
 
 "I gave you the half I had."
 
-"Give it me again, then. The whole half."
+"Tell it again, then. The whole half."
 
 Wystan chalked to the end of a groove before he answered. "A choir is one letter, pressed together, in step. Drilled the way soldiers drill the march until the twelve of them rise and fall like one scythe-line. Together they'll do what no one of them could do in a year of trying — the guild had a saying of it, a hundred throats make ten masters. And past a certain depth a man's no use in one — a master's understanding is too much his own shape, and it jars the line, like a bull hitched into a plow-team. So a choir is shallow folk, letter-folk, matched and drilled. That's the whole of what I know, and I had it from a man who had it from the levy, so salt it."
 

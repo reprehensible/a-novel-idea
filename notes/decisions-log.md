@@ -20,8 +20,35 @@ STYLE.md. Check before/after each chapter.)
 - **Explaining the image**: never follow a simile with its prose
   translation; never respell a chapter's governing figure in the closing
   paragraph. (2026-07-31)
+- **Hedged obviousness** (author, PR #2): no "suspected/seemed/somehow"
+  framing on an inference the reader has already made — state it or cut it.
+  (2026-07-31)
+- **Unearned "nobody remarked"** (author, PR #2): if narration notes that a
+  thing goes unremarked or is unusual, the text must first make legible
+  *what* would be remarked and why. Signpost the oddity or drop the gesture.
+  (2026-07-31)
+- **Dialect thickness** (author, PR #2): voice by rhythm and word choice,
+  not eye-dialect, elisions, or inverted constructions ("da," "give it me").
+  Ration regional markers hard, especially early in the book — thick dialect
+  distances. (2026-07-31)
+- **Imagery crowding** (author, PR #2): one metaphor family per paragraph or
+  speech; and never stack a new invented concept, stylized syntax, and a
+  striking image in the same sentence — when introducing an unfamiliar
+  world-concept, the prose around it goes plain. (2026-07-31)
 
 ## Decisions
+
+### 2026-07-31 — Author feedback round on ch 002 (PR #2)
+- Five line comments from the author on the drafted chapter; all actioned in
+  prose same day (unlike test-reader feedback, author comments are change
+  requests per the charter). Fixes: cut the "suspected was the point" hedge;
+  rewrote the Joss-stays-at-school paragraph to establish why staying is odd
+  before noting nobody remarks; thinned dialect (Gret's speech, "give it me");
+  clarified the knack-bench/Ember paragraph (plain terms before imagery);
+  decluttered Wystan's pail speech to one metaphor family.
+- Four standing rules extracted to the ban-list above (hedged obviousness,
+  unearned "nobody remarked," dialect thickness, imagery crowding). These are
+  now edit-pass checks for every chapter.
 
 ### 2026-07-31 — Ch 002 drafting decisions
 - **The Inning-night fire resolved as mundane-ambiguous:** the toll's
