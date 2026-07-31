@@ -67,3 +67,33 @@ cause unknown); Wystan walking the bounds early; 47 days to report-day.
 reinforced (Petra's first pressing, on page); P027 reinforced (choir question
 asked; half-answer given); P018 reinforced (Discord-blame rumor reflex); P028
 planted (Davin's Inning cup left with Otty Cardew).
+
+### Ch 003 — The Levy Scout  [POV: Joss]  [words: ~4,280]  [in-world date: Inning + 8–9 days]
+Joss finds sign of someone lying up in the bracken overlooking Fennstead:
+Renna Pike, 22, shirelevy scout billeted at Reeve Chessom's for the
+requisitions. Prickly first meeting — she's counted the whole family ("the
+middle Fenn. The one that stays") and watched three mornings to see if they'd
+hide the marked gelding (they didn't; "that's rarer than you'd think"). The
+burned toll fodder-yards mean the levy can't winter remounts: trains make up
+early and south at Marle, marked beasts called in now. She knows the parish's
+hidden stock (mare in the marl-pit shaw, red heifer in the alder carr) and
+won't report it — "Nobody's paid me to make the parish honest"; keeps a
+private notch-stick tally (reads slowly; tallies, not letters). Cropp's party
+collects nine parish beasts. Village resentment turns to sport when Seth
+Hodge (warrener, parish's best shot) challenges her; her poacher's bet — the
+sentinel rook, one bolt, inside thirty paces — is won at dawn from inside a
+windrow, eleven paces, after six hours buried ("A flock counts what comes to
+the edges of a field... They don't count the field"). Rook given to Gret.
+The gelding taken: Bram grooms him by night and folds the chit unread; Davin
+feeds him windfalls — "Save me a stall, then"; Petra notes the underpayment;
+Lise stays home. Renna stays billeted till the trains go south, watching
+roads ("more moving on them than there was"). Ends off-hand: "The Seam's
+worse than the couriers say. You heard of Brede because Brede got its people
+out to do the telling. There's towns that didn't."
+**State changes:** Fenn gelding requisitioned (chit at crown's price, below
+worth); only the old cob remains at Fennstead; Renna Pike billeted at the
+reeve's until month's end; Hodge's shilling lost to her; 42 days to
+report-day.
+**Plants/payoffs:** P026 PAID (gelding taken). P019 reinforced (Davin's
+quiet; "Save me a stall"). Renna's craft/code established (groundwork for
+P003, not yet planted).
