@@ -15,6 +15,16 @@ STYLE.md. Check before/after each chapter.)
 
 ## Decisions
 
+### 2026-07-31 — Author sign-off; edit-pass mandate
+- Author reviewed the development package and directed drafting to begin —
+  treated as sign-off on all flagged Phase 1 decisions (none vetoed).
+- **New standing guidance from the author:** after drafting each chapter,
+  a mandatory edit pass for (1) writing quality — metaphors consistent and
+  meaningful, no stock phrasing — and (2) "AI smell" — typically-AI
+  constructions; sustain varied scene types and tones without repetition
+  or loss of coherence. Implemented as STYLE.md "The edit pass" section +
+  step 0 of the post-chapter protocol in CLAUDE.md.
+
 ### 2026-07-31 — Phase 1 development decisions (flagged for author sign-off)
 
 Design calls made while expanding the premise; all changeable cheaply now,

@@ -97,6 +97,51 @@ Read this before every drafting session.
   the reader. Banter is fine; relentless quipping that deflates tension is not.
 - Sincerity over irony. Characters are allowed to care openly about things.
 
+## The edit pass (mandatory, after every chapter draft)
+
+Author-mandated (2026-07-31). Drafting a chapter produces a *draft*; the
+chapter is not done until it has survived an edit pass with two lenses.
+Do the pass as a genuine re-read of the full chapter, not a skim, and make
+the fixes before any bookkeeping.
+
+**Lens 1 — writing quality:**
+- Every scene doing its job(s); enter late / leave early actually observed.
+- POV discipline: nothing on the page the POV character wouldn't notice or
+  phrase that way.
+- **Metaphor audit:** each metaphor must be (a) consistent — no mixing
+  within a passage, (b) meaningful — drawn from the POV character's world
+  and doing characterizing work, (c) fresh — if it could be pasted into any
+  other book, cut or replace it. Metaphors are rationed: one working image
+  beats three decorative ones.
+- Rhythm: read paragraphs aloud in the mind's ear; break runs of same-shape
+  sentences; check paragraph-length variety across the chapter.
+- Continuity spot-check against bible/notes for every fact asserted.
+
+**Lens 2 — AI smell.** Constructions that mark machine prose. Hunt and kill:
+- **Stock phrasing:** "couldn't help but," "a mixture of X and Y,"
+  "somewhere between X and Y," "not for the first time," "let out a breath
+  he didn't know he was holding," "the air was thick with," "a testament
+  to," "unbidden," "impossibly," "a small eternity," "something in his
+  chest," "something shifted," "the weight of," eyes widening, knuckles
+  whitening, breath catching.
+- **Tic constructions:** "Not X. Not Y. But Z." fragment ladders;
+  one-word dramatic paragraphs ("Alive."); anaphora three or more deep;
+  rhetorical-question chains; "It was only later that…"; paired
+  abstractions ("grief and something like hope").
+- **Over-signaling:** emotions named instead of enacted; a closing line
+  that files the scene's meaning for the reader; adjectives doing the work
+  verbs should; every noun escorted by a modifier.
+- **Uniformity:** same scene-opening move twice in one chapter (weather →
+  interiority → dialogue, etc.); dialogue exchanges that alternate at
+  identical lengths; every beat landing at paragraph-end.
+- **Tonal flattening:** the pass must confirm the chapter's intended tone
+  (dread, comedy, grief, action) is *distinct* from the neighboring
+  chapters' — check the last two chapters' textures and differ.
+
+Additions to this list discovered during drafting go in
+`notes/decisions-log.md` under "Prose ban-list additions" and get checked
+thereafter.
+
 ## Known failure modes — actively resist
 
 These are the specific ways LLM-drafted long fiction goes wrong. Check every
