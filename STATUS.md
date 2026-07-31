@@ -5,35 +5,49 @@
 
 ## Current phase
 
-**Phase 0 — Setup: complete. Awaiting initial story prompt from the author.**
+**Phase 1 — Development: package complete. AWAITING AUTHOR SIGN-OFF before
+Phase 2 (drafting) begins.**
 
 ## Next action
 
-Author provides the high-level premise (a paragraph or two). Then begin
-Phase 1 — Development:
+Author reviews the development package and signs off or redirects:
 
-1. Expand premise into setting document (`bible/setting.md`), including any
-   magic/tech systems with explicit rules.
-2. Build character roster (`bible/characters/`), select POV characters.
-3. Draft full outline (`bible/plot/outline.md`): act structure → chapters →
-   scene beats, targeting 70–80 chapters / 250–300k words.
-4. Establish timeline and glossary.
-5. Present the development package to the author for sign-off before drafting.
+- `bible/setting.md` — world, the Ken (hard rules), nations, three-layer
+  history with spoiler architecture and secrecy map.
+- `bible/characters/` — 7 major files + supporting cast.
+- `bible/plot/outline.md` — 5 parts, 76 chapters + 4 interludes, per-chapter
+  beats, ~292k words budgeted.
+- `bible/plot/promises.md` — 25 pre-registered setup/payoff promises.
+- `bible/timeline.md` — historical canon + travel times + seasonal arc.
+- `bible/glossary.md` — all invented terms to date.
+
+**Decisions specifically flagged for author sign-off** (see decisions-log
+2026-07-31 entry): Serel dies in ch 69; the Lector survives as the Archon's
+instrument; "the Discord" as the rebellion's name; mind-conformity
+(the Tuning) as the golden age's core tyranny; the heroes' denial choice
+causes the unsealing; low-key Joss/Renna romance; title *The Warden's Latch*.
+
+After sign-off: draft ch 1 per the session protocol in CLAUDE.md.
 
 ## Manuscript state
 
 | Metric | Value |
 |---|---|
-| Chapters drafted | 0 |
+| Chapters drafted | 0 of 76 (+4 interludes) |
 | Total word count | 0 |
-| Target | 250,000–300,000 |
-| Current position in outline | — (no outline yet) |
+| Target | 250,000–300,000 (budgeted ~292,000) |
+| Current position in outline | Ch 1 — "Harvest" (pending sign-off) |
 
 ## Open questions for the author
 
-- Awaiting initial premise.
+- Sign-off or redirects on the flagged decisions above.
+- Any naming vetoes (esp. "the Discord," "the Ken," character names) — far
+  cheaper to change now than after drafting begins.
 
 ## Session log
 
-- **2026-07-31** — Phase 0: repository scaffold, charter (CLAUDE.md), style
-  guide (STYLE.md), bible/notes structure created.
+- **2026-07-31** — Phase 0: repository scaffold, charter, style guide.
+- **2026-07-31** — Phase 1: full development package from author's premise —
+  setting + magic system, 7 character files + supporting cast, complete
+  76-chapter outline, 25-promise ledger, timeline, glossary. Awaiting
+  sign-off.
