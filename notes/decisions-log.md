@@ -42,6 +42,39 @@ STYLE.md. Check before/after each chapter.)
 
 ## Decisions
 
+### 2026-07-31 — Ch 003 drafting decisions
+- **The poacher's bet instantiated** as a wager against Seth Hodge (new
+  minor character: warrener, parish's best shot): the sentinel rook off the
+  long-field stubble, one bolt inside thirty paces — won from inside a
+  windrow after six hours' stillness. Chosen over a butts match to make the
+  point that her craft is not sport ("A mark stands where you set it...
+  Nothing I'm sent after does that"): a scout's work is watching-then-taking.
+  This quietly prefigures the ch 7 raid (someone will do to Fennstead what
+  she does to rooks) — deliberately unstated on page.
+- **Requisition escalation is a mundane consequence of the fire:** burned
+  remount hay → the toll can't winter horses → trains make up early and
+  south at Marle → marked beasts called in district-wide. Preserves the
+  fire-cause-ambiguous ruling (nothing on page attributes the fire; Joss's
+  one interior speculation was revised to avoid implying arson).
+- **Renna withholds her name in her own intro scene**; the reader gets it
+  via village gossip (the reeve's wife) in scene 2. Character rule: she
+  gives nothing away free.
+- **Renna's notch-stick introduced** as her private tally (she reads slowly
+  per her file; notches, not letters). It is the counter-image to the war's
+  paper — kept implicit, never explained on page. Her code stated: finds
+  hidden beasts, reports none ("Nobody's paid me to make the parish
+  honest") — groundwork for the desertion thread (P003), not yet a plant.
+- **Hidden parish stock now canon** (mare in the marl-pit shaw, red heifer
+  in the alder carr, unreported). Available texture for later chapters;
+  do not have the crown find them without a story reason.
+- **Edit pass:** ~20 fixes. Notables: two day-count errors (fire "month's
+  start" → nine days; barley "a fortnight" → ten days); removed a
+  construction duplicating ch 1's "which was the wold's way of shouting"
+  button; killed a fragment ladder, a whimsy clause at the byre grief beat,
+  and an over-signaling explainer ("as near as his father came to saying
+  any of it"); pruned "the way X" density; Renna's name insertion; interior
+  monologue de-arsoned as above.
+
 ### 2026-07-31 — Author feedback round on ch 002 (PR #2)
 - Five line comments from the author on the drafted chapter; all actioned in
   prose same day (unlike test-reader feedback, author comments are change

@@ -31,9 +31,9 @@
 | P016 | The gate reads; "go in clean or not at all" | ch 38 | ch 55 | ch 57 (the Reading) | — | PLANNED |
 | P017 | The Long Count's plural Discord ("the many") | Int-B, ch 33 | ch 51 | ch 51/55 (T2 confirmed); ch 74 (Count receives the true tale) | — | PLANNED |
 | P018 | Myth as fossil propaganda (lamp-story; homily Int-A) | ch 1 (Wystan's telling) ✓ | ch 2 (Discord-blame rumor) ✓, Int-A, ch 23 (shrine mismatch), ch 41 | ch 75 (myth begins again, on page) | — | OPEN |
-| P019 | Davin on the Seam / the ordinary war | ch 1 (writ; 51 days) ✓ | ch 13, 44 | ch 74 (armies feel the echo) | — | OPEN |
+| P019 | Davin on the Seam / the ordinary war | ch 1 (writ; 51 days) ✓ | ch 3 ✓ (the new quiet; "Save me a stall"), 13, 44 | ch 74 (armies feel the echo) | — | OPEN |
 | P020 | Petra: the family's letter-quick prospect | ch 1 (tally correction) ✓ | ch 2 (first Ember pressed; guild school unaffordable) ✓, 76 | INTENTIONALLY-UNRESOLVED (sequel seed) | — | OPEN |
-| P026 | The gelding marked for assessment | ch 1 ✓ | — | ch 3 (second horse taken) | — | OPEN |
+| P026 | The gelding marked for assessment | ch 1 ✓ | — | ch 3 (second horse taken) | ch 3 ✓ (requisitioned to Marle; chit unread in Bram's coat; "Save me a stall") | PAID |
 | P027 | The twelve-kenner choir seen in spring; Joss's unasked question | ch 1 ✓ | ch 2 (asked: "where does Ambrun end?" — half-answered) ✓ | ch 18/26 (choirs at war), ch 68 (the Bell as ultimate choir) | — | OPEN |
 | P028 | Davin's Inning cup, left with Otty Cardew "till I'm back" | ch 2 ✓ | — | ch 74/76 (family thread texture; Davin's return) or INTENTIONALLY-UNRESOLVED if unreachable | — | OPEN |
 | P021 | Ilvane's rehearsed true statement at the lock (ch 65, undisclosed) | ch 65 | — | INTENTIONALLY-UNRESOLVED (sequel hinge) | — | PLANNED |

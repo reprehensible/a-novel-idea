@@ -66,6 +66,7 @@
 - **Aldery, Col** — smith's son, ~20; conscripted ch 1 with Davin.
 - **Bram Fenn** — Joss's father, Fennstead farmer.
 - **Cardew, Harl** — wheelwright of Brede, refugee billeted at Harrowmere's mill; reads the war in broken wheels. Wife **Maren**; daughter **Tilde** (~12); son **Otty** (~7, mute since the Seam; keeps Davin's Inning cup). First: ch 2.
+- **Carter** — Harrowmere carting family; Tam Carter (boy, ch 2); his father carts for half the district (road pair requisitioned ch 3). First: ch 2.
 - **Caul** — fourfold-graven hermit of the tarn (Part III). "Caul of the Tarn."
 - **Cael sen Immra** — Vireth archivist-initiate of the Second Dawn; POV; defects.
 - **Chessom, Reeve** — Harrowmere's reeve. His nephew **Marley Chessom** clerks at Ferrand; delivered the levy writs. First: ch 1.
@@ -74,12 +75,13 @@
 - **Dunmow, Aldous** — Harrowmere miller; sings the ewe-in-the-well song. First: ch 1.
 - **Dunmow, Edmund "Edd"** — miller's eldest; conscripted ch 1 ("there's the fourth verse found").
 - **Dunmow, Gret** — miller's youngest, 9; knack-bench pupil at Wystan's school. First: ch 2.
+- **Hodge, Seth** — Harrowmere's warrener; the parish's best shot (the wreath at the Ferrand fair shoots, two years running); lost the rook wager to Renna Pike. First: ch 3.
 - **Ilvane** — the Warden of Ancarel; broker of the Truce; sealed volunteer.
 - **Josselin "Joss" Fenn** — protagonist; wold farmboy of Harrowmere.
 - **Lise Fenn** — Joss's mother.
 - **Ottavane Dyre** — "the Lector"; Examiner-General; field leader of the Second Dawn.
 - **Petra Fenn** — Joss's younger sister, 14.
-- **Renna Pike** — Harthen shirelevy scout; poacher's daughter; companion.
+- **Renna Pike** — Harthen shirelevy scout; poacher's daughter; companion. First: ch 3.
 - **Sarich** — "the Cold Man"; the Dawn's graven hunter.
 - **Serel Vaun** — fugitive twice-graven ex-Examiner; mentor. (Birth name Serel sen Davra; "Vaun" is a taken scholar-name.)
 - **Tovan Ninth-Cairn** — Oru-Vael guide carrying a memory-debt.
